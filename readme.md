@@ -1,4 +1,4 @@
-# AWS EB CLI
+# AWS EB CLI In Docker
 AWS Elastic beanstalk CLI in Docker
 
 # Usage
